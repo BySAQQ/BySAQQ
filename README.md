@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Sionne Quintero 😎 and I'm a Junior Dev, from COL :flag_colombia:
+### My name is Sionne Quintero 😎 and I'm a Junior Dev, from 🇨🇴
 
 ###
 <h2 aling="left"> About Me </h2>
