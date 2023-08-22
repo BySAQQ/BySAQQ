@@ -10,7 +10,7 @@
 
 ###
 <h2 aling="left">I code with</h2>
-###
+
 <br clear="both">
 
 <div align="center">
