@@ -1,4 +1,16 @@
 ### Hi there 👋
+
+### My name is Sionne Quintero 😎 and I'm a Junior Dev, from COL :flag_colombia:
+
+###
+<h2 aling="left"> About Me </h2>
+###
+
+<p></p>
+
+###
+<h2 aling="left">I code with</h2>
+###
 <br clear="both">
 
 <div align="center">
