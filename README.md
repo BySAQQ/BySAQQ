@@ -4,11 +4,9 @@
 
 ###
 <h2 aling="left"> About Me </h2>
-###
+<p aling="center" >Student of analysis and development of information systems, systems technician, passionate about technology, learning and new experiences with a great team.</p>
 
-<p></p>
-
-### I code with
+<h3 align="center"> I code with </h3>
 <br clear="both">
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
@@ -55,11 +53,11 @@
 
 <br clear="both">
 
-<div align="right">
-  <a href="www.linkedin.com/in/sionne-quintero-quintero" target="_blank">
+<p align="center" dir="auto">
+  <a href="https://www.linkedin.com/in/sionne-quintero-quintero/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:saquintero87@soy.sena.edu.co" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft outlook logo"  /> </a>
-</div>
+</p>
 
