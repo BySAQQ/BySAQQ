@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Sionne Quintero 😎 and I'm a Junior Dev, from 🇨🇴
+ My name is Sionne Quintero 😎 and I'm a Junior Dev, from 🇨🇴
 
 ###
 <h2 aling="left"> About Me </h2>
@@ -49,11 +49,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BySAQQ&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="130" alt="languages graph"  />
 </div>
 
-###
+### Contact Me
 
 <br clear="both">
 
-<p align="center" dir="auto">
+<p align="left" dir="auto">
   <a href="https://www.linkedin.com/in/sionne-quintero-quintero/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
