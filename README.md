@@ -4,7 +4,7 @@
 
 ###
 <h2 aling="left"> About Me </h2>
-<p aling="center" >Student of analysis and development of information systems, systems technician, passionate about technology, learning and new experiences with a great team.</p>
+<p aling="center" >Technologist in Information Systems Analysis and Development, systems technician, passionate about technology, learning, and new experiences with a great team.</p>
 
 <h3 align="center"> I code with </h3>
 <br clear="both">
@@ -55,6 +55,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:saquintero87@soy.sena.edu.co" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft outlook logo"  /> </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="Microsoft outlook logo"  /> </a>
 </p>
 
