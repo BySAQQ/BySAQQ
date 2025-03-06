@@ -38,6 +38,17 @@
   <img width="10" /> </a>
   <a href="https://learn.microsoft.com/es-es/visualstudio/get-started/visual-studio-ide?view=vs-2022" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="visualstudio logo" /> </a>
+  <img width="10" /> </a>
+  <a href="https://dotnet.microsoft.com/es-es/languages/csharp">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  /> </a>
+  <img width="10" /> </a>
+  <a href="https://www.java.com/es/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="10" /> </a>
+  <a href="https://spring.io/guides/gs/spring-boot"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+
+###
 </div>
 
 ###
